@@ -1,6 +1,6 @@
 import React,{useState, useEffect} from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Button, Modal} from 'react-bootstrap';
+import { Button} from 'react-bootstrap';
 import { BsEyeFill, BsPencilFill, BsTrashFill } from 'react-icons/bs'
 import { Api } from '../contexts/api'
 import CustomModal from "../components/modal";
