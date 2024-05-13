@@ -33,7 +33,8 @@ pip install -r requirements.txt
 
 ## Configuração
 4. banco de dados com postgresql,
-   configure o arquivo .env
+   - configure o arquivo .env;
+   - certifique-se de configurar o settings.py
    
 ```bash
     'NAME': 'django_banco',
