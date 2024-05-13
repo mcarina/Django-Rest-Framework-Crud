@@ -1,6 +1,6 @@
 # Projeto CRUD Django + React.js
 
-Este é um que demonstra a funcionalidade de um CRUD (Create, Read, Update, Delete) implementado em Django versão 5.
+Este é um projeto que demonstra a funcionalidade de um CRUD (Create, Read, Update, Delete) implementado em Django versão 5.
 
 ## Funcionalidades
 
