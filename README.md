@@ -37,8 +37,8 @@ pip install -r requirements.txt
    - certifique-se de configurar o settings.py
    
 ```bash
-    'NAME': 'django_banco',
-    'USER' : 'postgres',
+    'NAME': 'nomedobanco',
+    'USER' : 'seuuser',
     'PASSWORD': ' ',
     'HOST': 'localhost',
     'PORT': '5432',
